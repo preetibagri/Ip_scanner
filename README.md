@@ -1,6 +1,6 @@
 #Ip_scanner
 Steps explained
-#Imports:
+# Imports:
 socket: Provides low-level networking interfaces.
 ipaddress: Used to create, manipulate, and validate IP addresses and networks.
 threading: Supports threading to perform tasks concurrently.
