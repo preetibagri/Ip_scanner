@@ -1,4 +1,4 @@
-# Ip_scanner
+#Ip_scanner
 Steps explained
 # Imports:
 socket: Provides low-level networking interfaces.
